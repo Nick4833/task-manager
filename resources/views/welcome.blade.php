@@ -8,7 +8,7 @@
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
-        <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+        <link href="/css/app.css" rel="stylesheet">
         <link href="https://unpkg.com/nprogress@0.2.0/nprogress.css" rel="stylesheet" />
         <script src="https://unpkg.com/nprogress@0.2.0/nprogress.js"></script>
         
